@@ -1,11 +1,44 @@
 
-# HOTEL MANAGEMENT SYSTEM
-=======
-Topic Name - Hotel_sky_dragons
+<h1>Hotel Sky Dragons Management System</h1>
 
-I observed several issues with some of the applications used in hotels. Due to these issues, the hotel's overall effectiveness may suffer, and guests may become dissatisfied. So, the "Hotel Sky Dragons" hotel management system has been developed to remedy the problems with the manual system currently in use. This system provides the essential hotel management functions, including reservation management, restaurant management, customer management, financial management, feedback management, supplier management, employee management and extra-facility management. First, customers need an account to use the features that are provided by the hotel. Customers should register to the system by providing valid details such as Email address, contact number, address etc. Once a customer creates an account, then the customer is eligible to make a reservation and get other hotel services (mini bar, spa, pool, clubs). The system is hence useful for both customers and the owners to manage the hotel activities very efficiently. For managing purpose, Hotel has a huge admin panel. Admin panel can add Employees to the system, add Suppliers to the system, calculate Financial reports, update Food and Beverage packages and generate reports. If Employee or Supplier wants to see their profile, they must be able to log in to their accounts with valid credentials. After login to the system Employees and Suppliers can see their profiles. Only the Admin panel can update profile details of the Employees and the Suppliers. Admin panel also generate reports such as Basic salaries report, income and expenditure report, food consumption report regarding the particular month. As a result of this system Manager can get a brief and very clear idea about the hotel. The users of the web application are given an opportunity to leave their feedbacks about the business as well as about the web application. According to the customer feedbacks, management of the foods and beverages will update the menus. Moreover, this system is designed to accommodate the specific requirements of the business and conduct operations efficiently and effectively.
+<p>A web-based hotel management system designed to simplify hotel operations and provide a seamless experience for guests. The system includes essential hotel management functions such as:</p>
 
-Technologies used - React JS, Express JS, Node JS, Postman
+<ul>
+  <li>Reservation management</li>
+  <li>Restaurant management</li>
+  <li>Customer management</li>
+  <li>Financial management</li>
+  <li>Feedback management</li>
+  <li>Supplier management</li>
+  <li>Employee management</li>
+  <li>Extra-facility management</li>
+</ul>
 
-Database - MongoDB
+<h2>Key Features</h2>
+<ul>
+  <li>Customer registration and account creation</li>
+  <li>Reservation management for hotel services</li>
+  <li>Restaurant management for food and beverage packages</li>
+  <li>Customer management for guest information and feedback</li>
+  <li>Financial management for income and expenditure reports</li>
+  <li>Supplier management for updating profiles and generating reports</li>
+  <li>Employee management for adding and updating profiles</li>
+  <li>Admin panel for managing the system and generating reports</li>
+</ul>
 
+<h2>Technologies Used</h2>
+<ul>
+  <li>React JS</li>
+  <li>Express JS</li>
+  <li>Node JS</li>
+  <li>Postman</li>
+  <li>MongoDB</li>
+</ul>
+
+<h2>Getting Started</h2>
+<ol>
+  <li>Clone the repository to your local machine.</li>
+  <li>Run <code>npm install</code> to install all dependencies.</li>
+  <li>Run <code>npm start</code> to start the application.</li>
+  <li>Access the application in your browser at <code>http://localhost:3000</code>.</li>
+</ol>
